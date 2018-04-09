@@ -8,7 +8,7 @@
 
 ## Manual
 
+The interface to GartenXXL is implemented into the interface to Plus.de.
 
-
-<a href="https://knowledge.plentymarkets.com/en/omni-channel/multi-channel/allyouneed" target="_blank">Knowledge</a>
+<a href="https://knowledge.plentymarkets.com/en/omni-channel/multi-channel/plus-gartenxxl" target="_blank">Knowledge</a>
 
